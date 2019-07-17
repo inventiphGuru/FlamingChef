@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FlemmingChef</string>
+    <string name="ErrorMsg">Error loading Error: connection!!</string>
+    <string name="RecipeImg">Image</string>
+    <string name="TvSource">TextView</string>
+    <string name="Tvtitle">TextView</string>
+    <string name="title">TextView</string>
+    <string name="Source">TextView</string>
+</resources>
